@@ -1,0 +1,8 @@
+# RPG Maker typical ignores
+*.rpgsave
+*.rpgproject.backup
+*.log
+*.tmp
+Backup/
+Save/
+
